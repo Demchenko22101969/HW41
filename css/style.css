@@ -13,3 +13,7 @@ h3, p  {
 #first_par {
     color: yellowgreen;
 }
+.carousel-inner {
+    border-radius: 50%;
+    border: 2px solid white;
+}
