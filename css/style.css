@@ -1,0 +1,14 @@
+body {
+    background-color: yellow;
+}
+.container, h1 {
+    text-align: center;
+      
+}
+
+h3, p  {
+    color: red;
+}
+#first_par {
+    color: yellowgreen;
+}
