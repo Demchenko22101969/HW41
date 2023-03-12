@@ -2,6 +2,9 @@ body {
     background-color: yellow;
     padding: 5%;
 }
+.container--fluid{
+    border-radius: 10px;
+}
 .container, h1 {
     text-align: center;
       
